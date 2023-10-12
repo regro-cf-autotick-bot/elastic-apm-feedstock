@@ -145,6 +145,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@beniwohli](https://github.com/beniwohli/)
+* [@basepi](https://github.com/basepi/)
 * [@tobiasraabe](https://github.com/tobiasraabe/)
 
